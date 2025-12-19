@@ -79,7 +79,7 @@ Prior to pipeline integration, core mathematical concepts were validated in a de
 
 ![Algorithm Validation](assets/research_validation.png)
 
-_Figure 2: Simulation of discrete detection impulses transforming into a continuous density field. Left: Raw detection matrix. Center: Smoothed Gaussian field ($\sigma=8$). Right: 3D Topology view of density peaks._
+_Figure 2: Simulation of discrete detection impulses transforming into a continuous density field. Left: Raw detection matrix. Center: Smoothed Gaussian field $(\sigma=8)$. Right: 3D Topology view of density peaks._
 
 ## Key Features
 
