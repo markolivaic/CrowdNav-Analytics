@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+venv/
+env/
+.env
+
+# Video files
+data/input/*.mp4
+data/input/*.avi
+data/input/*.webm
+data/output/*.mp4
+data/output/*.avi
+
+# Model weights (OVO JE KLJUČNO)
+*.pt
+*.pth
+yolov8x.pt
+
+# Allow assets
+!assets/

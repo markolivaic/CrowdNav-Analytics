@@ -1,0 +1,7 @@
+ultralytics
+opencv-python-headless
+numpy
+torch
+tqdm
+sahi>=0.11.0
+scipy
